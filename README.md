@@ -33,8 +33,7 @@ Figmaでのデザインだけでなく、HTML/CSSを用いた「実装の手戻�
 
 **「多忙な先生に思考停止で使ってもらう」**をコンセプトに、直感的なUIを設計・実装しました。
 
-Repository: [ここにモンジェネのリポジトリURL]
-
+Repository: [(https://github.com/KokiWakatsuki/mon-gene)]
 
 
 
