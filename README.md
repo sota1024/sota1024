@@ -61,9 +61,9 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Activities
 
-![sota1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=sota1024&show_icons=true&theme=radical)
+![sota1024's stats](https://github-readme-streak-stats.herokuapp.com/?user=sota1024&theme=radical)
 
 ---
 
