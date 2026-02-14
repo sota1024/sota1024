@@ -46,12 +46,14 @@
 
 ### 📂 Main Projects
 
-#### 📝 [モンジェネ (Mon-gene)](https://github.com/YourGitHub/mon-gene)
+#### 📝 モンジェネ (Mon-gene)
 * **役割:** UI/UXデザイン
 * **概要:** 教育者向けの問題自動生成アプリケーション。Go / Python / TypeScript / Next.js を使用。
 * **Links:** [Repository](https://github.com/KokiWakatsuki/mon-gene)
 > [!TIP]
 > 複雑な問題生成プロセスを、誰でも直感的に操作できるユーザーフローへと落とし込みました。
+<img width="2166" height="1451" alt="image" src="https://github.com/user-attachments/assets/f7e2f140-2470-49f6-b38c-73f58d65e49f" />
+
 
 #### 🏫 大学祭実行委員会：参加団体管理アプリ (GM2)
 * **役割:** フロントエンド実装（GM2管理者画面、参加団体画面）
